@@ -15,6 +15,10 @@ This project is about the clone the duck-duck-home page.
 
 __A User can see [My initial repository]() and [Live demo]()__
 
+To run this project out we will have to divide the duck-duck home page in sub-page
+each sub-page will be developed in a different branch and at the end of the work we will have to merge all the branches to the main/master branch.
+Each sub-page will have its own developemnt strategy.
+
 ### Repo
 
 - Generate from Template
@@ -30,7 +34,7 @@ write a small development straregy about this Sub-page
 
 ##### developement strategy
 
-- [] developed on a branch named `main-page`
+- [ ] developed on a branch named `main-page`
 ---
 
 
@@ -43,7 +47,7 @@ write a small development straregy about this Sub-page
 
 ##### developement strategy
 
-- [] developed on a branch named `second-page`
+- [ ] developed on a branch named `second-page`
 ---
 
 ## 3. About _third-page_
@@ -55,7 +59,7 @@ write a small development straregy about this Sub-page
 
 ##### developement strategy
 
-- [] developed on a branch named `third-page`
+- [ ] developed on a branch named `third-page`
 ---
 
 ## 4. about _fourth-page_
@@ -67,7 +71,7 @@ write a small development straregy about this Sub-page
 
 ##### developement strategy
 
-- [] developed on a branch named `fourth-page`
+- [ ] developed on a branch named `fourth-page`
 ---
 
 ## 4. about _fith-page_
@@ -79,7 +83,9 @@ write a small development straregy about this Sub-page
 
 ##### developement strategy
 
-- [] developed on a branch named `fith-page`
+- [ ] developed on a branch named `fith-page`
+
+
 
 
 
