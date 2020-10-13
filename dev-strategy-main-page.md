@@ -1,5 +1,12 @@
 ## Main-page 
 
+---
+
+#### Wireframe
+![HYF](./wireframe1.png)
+
+ ---
+
 ### 1- Clone the repo
 * Generate a repo from Template (w3-validation-template )
 * open the folder in the VS code.
